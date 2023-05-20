@@ -1,5 +1,4 @@
-# WEB-design-lab1
-Тема: «Розробка статичного інтерфейсу Web-додатка»
-Cтудент групи КВ-01 Черичка Максим
+WEB-design-lab2
+Тема: «Розробка функціональності Web-додатка мовою Javascript» Cтудент групи КВ-01 Черичка Максим
 
-[Посилання на документ звіту](https://docs.google.com/document/d/1Tr1CO3ECBOrm-3ZIMzTSe7e9YYTLigDVSLv3UZ3dtL8/edit?usp=sharing).
+Посилання на звіт: https://docs.google.com/document/d/1pHgwxLWlJXMfjmXmyzIk-M1sKzCy91Zl0oUWbT2AoGE/edit?usp=sharing 
